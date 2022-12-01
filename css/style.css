@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap");
+
+body {
+	background-color: #d7322d;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	font-family: "Mountains of Christmas", sans-serif;
+}
+
+.card {
+	background-color: rgba(255, 255, 255, 0.75);
+}
