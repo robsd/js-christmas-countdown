@@ -3,7 +3,7 @@ hoursLabel = document.getElementById('hours-label');
 minutesLabel = document.getElementById('minutes-label');
 secondsLabel = document.getElementById('seconds-label');
 
-target = new Date("25 December 2022").getTime();
+target = new Date("25 December 2023").getTime();
 christmas = false;
 
 function countdown() {
